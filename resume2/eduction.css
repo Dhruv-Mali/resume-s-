@@ -1,0 +1,17 @@
+*{
+    background: #333;
+}
+.heading{
+    border: solid 5px black;
+    height: 723px;
+    background:#333;
+}
+.heading1{
+    margin-left: 50px;
+    color: aliceblue;
+}
+.caption{
+    margin-left: 20px;
+    line-height: 23px;
+    color: aliceblue;
+}

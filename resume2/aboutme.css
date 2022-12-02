@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;        
+    background: #333;
+}
+.details{
+    color: aliceblue;
+}
+.font1{
+    font-size: xx-large;
+}
+.img{
+    display: flex;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    margin-left:20px;
+    height: 450px;
+    width: 400px;
+    border-radius: 100%;
+    border: solid 5px;
+    border-color:rgb(173, 85, 228) ;
+}
+.aboutme{
+    font-size: x-large;
+    margin-left:20px;
+}

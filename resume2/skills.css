@@ -1,0 +1,17 @@
+.main{
+    border: solid 5px black;
+    height: 720px;
+    background-color: #333;
+}
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 50px;
+    color: aliceblue;
+}
+.heading1{
+    font-weight: 800;
+}
+.list{
+    color: aliceblue;
+    margin-left: 20px;
+}

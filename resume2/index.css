@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background: #333;
+    height: 80px;
+    
+}
+.logo{
+    height: 80px;
+}
+.nav{
+    font-size: x-large;
+    display: flex;
+    /* justify-content: right; */
+    position: absolute;
+    top: 3%;
+    right: 5%;
+}
+
+a{
+    color: #f2f2f2;
+    display: flex;
+    display: grid;
+    grid-gap: 2rem;
+    margin: 0 1rem;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+a:hover{
+    border-bottom: 3px solid #f2f2f2;
+}
+.profile{
+    background-color: #1C1C1C;
+    height: 90vh;
+    display: flex;
+    justify-content: right;
+}
+.proimg{
+    height: 350px;
+    width: 350px;
+    margin: 8rem;
+    border-radius: 30%;
+}
+.name{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 160px;
+    padding: 100px;
+}
+.name2{
+    font-size: large;
+    margin-top: -50px;
+}
+.details{
+    background-color: #f2f2f2;
+    background-color: #333;
+    
+}
+.font1{
+    color: #f2f2f2;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.p1{
+    background-color:  #333;
+    display: flex;
+    color: #f2f2f2;
+}
+.img{
+    /* height: 280px; */
+    width: 220px;
+    border-radius:30%;
+    margin-left: 120px;
+    /* margin-top: 50px; */
+}
+.name3{
+    color:#f2f2f2;
+    font-size: larger;
+    margin-top: 80px;
+}
+/* -------------------------------------------------- */
+/* resume */
+.aboutme{
+    margin-top: 60px;
+    margin-left: 200px;
+    font-size: x-large;  
+}
+.Skliis{
+    margin-top: 50px;
+    font-size: x-large;
+    margin-left: 70px; 
+}
